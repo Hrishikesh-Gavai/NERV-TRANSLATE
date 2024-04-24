@@ -13,17 +13,20 @@ Get ready to elevate your audio/video game with NERV Translate! 🎙️ Transfor
 2. Sign-in or create a https://huggingface.co/ account. Also don't forget to verify your Hugging Face account through confirmation link send to your Gmail account. 
 
 3. Once the code is finished running:
+
    Click: https://huggingface.co/pyannote/speaker-diarization , Fill out the details and click on "Agree and access repository."
 
    Similarly,
+
    Click: https://huggingface.co/pyannote/segmentation , Fill out the details and click on "Agree and access repository."
 
-4. At last, click on https://huggingface.co/settings/tokens and select the "New Token" option. Generate the token and copy it.
+5. At last, click on https://huggingface.co/settings/tokens and select the "New Token" option. Generate the token and copy it.
 
-5. Now come back to Google Colab and paste your copied token the the given box below and "Run The Web App."
+6. Now come back to Google Colab and paste your copied token the the given box below and "Run The Web App."
 
-6. Run the public URL.
-   Example URL: https://2ed1eddebd5548fd77.gradio.live
+7. Run the public URL.
+
+    Example URL: https://2ed1eddebd5548fd77.gradio.live
 
 
 ## 🎥 Finally, play with the settings and enjoy Dubbing! 🎴
