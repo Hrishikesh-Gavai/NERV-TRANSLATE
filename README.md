@@ -32,6 +32,11 @@ Get ready to elevate your audio/video game with NERV Translate! 🎙️ Transfor
 ## 🎥 Finally, play with the settings and enjoy Dubbing! 🎴
 
 
+## 🎥 UI 🎴
+![UI](https://github.com/Hrishikesh-Gavai/NERV-TRANSLATE/assets/168000487/c9fcdc7a-8fd2-4409-8264-23ab2d349c35)
+
+
+
 ## 🎥 Credits 🎴
 1. Team NERV: KKWIEER- F.Y.BTech Computer Engineering.
 2. R3gm (https://github.com/R3gm): SoniTranslate (https://github.com/R3gm/SoniTranslate?tab=readme-ov-file)
