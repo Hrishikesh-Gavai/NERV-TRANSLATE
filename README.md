@@ -4,7 +4,7 @@ Get ready to elevate your audio/video game with NERV Translate! 🎙️ Transfor
 
 
 ## 🎥 How To Use 🎴
-#1.#
+1. Sign-in to your Google Account: https://www.google.com/gmail/about/
 
 ## Contributing
 Welcome to contributions from the community! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request. For more information, please refer to the contribution guidelines.
