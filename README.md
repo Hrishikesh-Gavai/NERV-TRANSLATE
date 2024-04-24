@@ -10,4 +10,4 @@ Welcome to contributions from the community! If you have any ideas, bug reports,
 
 
 ## License
-Although the code is licensed under Apache 2, the models or weights may have commercial restrictions, as seen with pyannote diarization.
+Although the code is licensed under Apache-2.0, the models or weights may have commercial restrictions, as seen with pyannote diarization.
