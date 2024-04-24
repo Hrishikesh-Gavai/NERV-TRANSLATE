@@ -29,7 +29,7 @@ Get ready to elevate your audio/video game with NERV Translate! 🎙️ Transfor
     Example URL: https://2ed1eddebd5548fd77.gradio.live
 
 
-## 🎥 Finally, play with the settings and enjoy Dubbing! 🎴
+## 🔥 Finally, play with the settings and enjoy Dubbing! 🔥
 
 
 ## 🎥 UI 🎴
