@@ -22,8 +22,13 @@ Get ready to elevate your audio/video game with NERV Translate! 🎙️ Transfor
 
 5. Now come back to Google Colab and paste your copied token the the given box below and "Run The Web App."
 
-6. Run the public URL
-   Example URL: [https://2ed1eddebd5548fd77.gradio.live]
+6. Run the public URL.
+   Example URL: https://2ed1eddebd5548fd77.gradio.live
 
 
 ## 🎥 Finally, play with the settings and enjoy Dubbing! 🎴
+
+
+## 🎥 Credits 🎴
+1. Team NERV: KKWIEER- F.Y.BTech Computer Engineering.
+2. R3gm (https://github.com/R3gm): SoniTranslate (https://github.com/R3gm/SoniTranslate?tab=readme-ov-file)
