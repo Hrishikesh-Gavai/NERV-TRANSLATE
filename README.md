@@ -29,12 +29,19 @@ Get ready to elevate your audio/video game with NERV Translate! 🎙️ Transfor
     Example URL: https://2ed1eddebd5548fd77.gradio.live
 
 
-## 🔥 Finally, play with the settings and enjoy Dubbing! 🔥
+## *🔥 Finally, play with the settings and enjoy Dubbing! 🔥*
 
 
 ## 🎥 UI 🎴
-![UI](https://github.com/Hrishikesh-Gavai/NERV-TRANSLATE/assets/168000487/c9fcdc7a-8fd2-4409-8264-23ab2d349c35)
+![UIST](https://github.com/Hrishikesh-Gavai/NERV-TRANSLATE/assets/168000487/52e0e364-2bdd-42b2-9c0f-362994bda564)
 
+
+## 🎥 Example Of Dubbing 🎴
+Original
+https://github.com/Hrishikesh-Gavai/NERV-TRANSLATE/assets/168000487/a3ef58bb-5749-4230-836c-c5e883f15f97
+
+Hindi Dubbed
+https://github.com/Hrishikesh-Gavai/NERV-TRANSLATE/assets/168000487/c97bfa76-ab9a-457a-bccb-63d8b5f484d7
 
 
 ## 🎥 Credits 🎴
