@@ -38,9 +38,15 @@ Get ready to elevate your audio/video game with NERV Translate! 🎙️ Transfor
 
 ## 🎥 Example Of Dubbing 🎴
 Original
+
+
+
 https://github.com/Hrishikesh-Gavai/NERV-TRANSLATE/assets/168000487/a3ef58bb-5749-4230-836c-c5e883f15f97
 
 Hindi Dubbed
+
+
+
 https://github.com/Hrishikesh-Gavai/NERV-TRANSLATE/assets/168000487/c97bfa76-ab9a-457a-bccb-63d8b5f484d7
 
 
