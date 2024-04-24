@@ -1,8 +1,6 @@
-# 🎥 SoniTranslate 🈷️
+# 🎥 NERV TRANSLATE 🈷️
 
-🎬 Video Translation with Synchronized Audio 🌐
-
-SonyTranslate is a powerful and user-friendly web application that allows you to easily translate videos into different languages. This repository hosts the code for the SonyTranslate web UI, which is built with the Gradio library to provide a seamless and interactive user experience.
+Get ready to elevate your audio/video game with NERV Translate! 🎙️ Transform your videos into captivating masterpieces as you sync voices flawlessly. 🎬 Whether you're a pro or just starting out, NERV's user-friendly interface makes dubbing a breeze. 💻 Fine-tune pitch, tone, and timing with precision to breathe life into characters like never before. 🌟 Break down language barriers and reach global audiences with ease. 🌍 Say hello to seamless multilingual content creation! 🌐 Experience the thrill of storytelling with NERV Dubbing on GitHub today. 🚀 Revolutionize your production process and unleash your creativity! 🎉 Let NERV Dubbing be your ultimate tool for immersive audio transformation. 🌟 Get started now and make your videos truly unforgettable! 🔥
 
 
 | Description | Link |
