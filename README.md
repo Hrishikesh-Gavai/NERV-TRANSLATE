@@ -24,7 +24,7 @@ Get ready to elevate your audio/video game with NERV Translate! 🎙️ Transfor
 
 6. Now come back to Google Colab and paste your copied token the the given box below and "Run The Web App."
 
-7. Run the public URL.
+7. Run the PUBLIC URL.
 
     Example URL: https://2ed1eddebd5548fd77.gradio.live
 
