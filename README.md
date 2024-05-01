@@ -1,4 +1,4 @@
-# 🎥 VIDEO-TRANSLATE 🎴
+# *🎥 VIDEO-TRANSLATE 🎴*
 Get ready to elevate your audio/video game! 🎙️ Transform your videos into captivating masterpieces as you sync voices flawlessly. 🎬 Whether you're a pro or just starting out, our project's user-friendly interface makes dubbing a breeze. 💻 Fine-tune pitch, tone, and timing with precision to breathe life into characters like never before. 🌟 Break down language barriers and reach global audiences with ease. 🌍 Say hello to seamless multilingual content creation! 🌐 Experience the thrill of storytelling on GitHub today. 🚀 Revolutionize your production process and unleash your creativity! 🎉 Let SoniTranslate be your ultimate tool for immersive audio transformation. 🔥
 
 
