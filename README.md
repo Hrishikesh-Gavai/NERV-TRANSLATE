@@ -1,4 +1,4 @@
-# 🎥 NERV TRANSLATE 🎴
+# 🎥 NERV-TRANSLATE 🎴
 Get ready to elevate your audio/video game with NERV Translate! 🎙️ Transform your videos into captivating masterpieces as you sync voices flawlessly. 🎬 Whether you're a pro or just starting out, NERV's user-friendly interface makes dubbing a breeze. 💻 Fine-tune pitch, tone, and timing with precision to breathe life into characters like never before. 🌟 Break down language barriers and reach global audiences with ease. 🌍 Say hello to seamless multilingual content creation! 🌐 Experience the thrill of storytelling with NERV Translate on GitHub today. 🚀 Revolutionize your production process and unleash your creativity! 🎉 Let NERV Translate be your ultimate tool for immersive audio transformation. 🔥
 
 
